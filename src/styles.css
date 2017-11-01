@@ -1,1 +1,5 @@
 /* You can add global styles to this file, and also import other style files */
+.hero.is-primary {
+    background-color: #b22222;
+    color: #fff;
+}
